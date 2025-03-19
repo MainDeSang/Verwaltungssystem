@@ -38,10 +38,10 @@ To run the project locally:
   If using an IDE, open the project and run the main class.
   If using the command line, compile the source files and execute the main class.
 
-Contributions
+**Contributions**
 Contributions are welcome! Feel free to fork the repository, make enhancements, and submit a pull request. Whether it's optimizing the code, adding new features, or improving documentation, your input is valuable.
 
-License
+**License**
 This project is open-source and available under the MIT License.
 
 Happy coding!
